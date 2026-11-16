@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7e094" />
+      <stop offset="50%" stop-color="#d4af37" />
+      <stop offset="100%" stop-color="#9b7515" />
+    </linearGradient>
+    <linearGradient id="green" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1d4434" />
+      <stop offset="100%" stop-color="#0d231a" />
+    </linearGradient>
+  </defs>
+  <path
+    d="M32 4 L56 12 V30 C56 46 45 55 32 60 C19 55 8 46 8 30 V12 Z"
+    fill="url(#green)"
+    stroke="url(#gold)"
+    stroke-width="3"
+  />
+  <polygon
+    points="32,15 36.2,24.5 46.5,25.5 38.7,32.3 41,42.5 32,37 23,42.5 25.3,32.3 17.5,25.5 27.8,24.5"
+    fill="url(#gold)"
+  />
+</svg>
